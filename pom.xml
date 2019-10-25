@@ -4,7 +4,8 @@
 	<groupId>org.ravi</groupId>
 	<artifactId>HelloWorld</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<!--<version>0.0.1-SNAPSHOT</version>-->
+	<version>0.0.1</version>
 	<name>HelloWorld Maven Webapp</name>
 	<url>http://maven.apache.org</url>
   <build>
